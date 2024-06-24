@@ -102,8 +102,8 @@ function move() {
 
 // Test moving
 // setInterval(() => {
-//   move(); // Move first
-//   draw(); // Then draw again new position
+//move(); // Move first
+//draw(); // Then draw again new position
 // }, 200);
 
 // Start game function
